@@ -26,8 +26,8 @@ public class Ejercicio17 {
         area=Math.round(area*100)/100d;
         perimetro=Math.round(perimetro*100)/100d;
         
-        System.out.println("El area de la circunferencia es aproximadamente: "+area);
-        System.out.println("El perimetro de la circunferencia es aproximadamente: "+perimetro);
+        System.out.println("El área de la circunferencia es aproximadamente: "+area);
+        System.out.println("El perímetro de la circunferencia es aproximadamente: "+perimetro);
         
     }
 }
